@@ -1,0 +1,91 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "title 1",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere architecto doloribus officia dolor ipsum explicabo corporis nostrum itaque aliquid. Corrupti reiciendis explicabo amet soluta doloribus. Labore, harum dicta vitae sit quae facilis quibusdam excepturi beatae ipsum at quam? Dolore sit magnam iusto, cupiditate accusantium quibusdam odio velit quos! Quibusdam, aspernatur.",
+      "author": "rashi"
+    },
+    {
+      "id": 2,
+      "title": "title 2",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere architecto doloribus officia dolor ipsum explicabo corporis nostrum itaque aliquid. Corrupti reiciendis explicabo amet soluta doloribus. Labore, harum dicta vitae sit quae facilis quibusdam excepturi beatae ipsum at quam? Dolore sit magnam iusto, cupiditate accusantium quibusdam odio velit quos! Quibusdam, aspernatur.",
+      "author": "abdul"
+    },
+    {
+      "id": 3,
+      "title": "title 3",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere architecto doloribus officia dolor ipsum explicabo corporis nostrum itaque aliquid. Corrupti reiciendis explicabo amet soluta doloribus. Labore, harum dicta vitae sit quae facilis quibusdam excepturi beatae ipsum at quam? Dolore sit magnam iusto, cupiditate accusantium quibusdam odio velit quos! Quibusdam, aspernatur.",
+      "author": "abdul"
+    },
+    {
+      "id": 4,
+      "title": "title 4",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere architecto doloribus officia dolor ipsum explicabo corporis nostrum itaque aliquid. Corrupti reiciendis explicabo amet soluta doloribus. Labore, harum dicta vitae sit quae facilis quibusdam excepturi beatae ipsum at quam? Dolore sit magnam iusto, cupiditate accusantium quibusdam odio velit quos! Quibusdam, aspernatur.",
+      "author": "abdul"
+    },
+    {
+      "id": 5,
+      "title": "title 5",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere architecto doloribus officia dolor ipsum explicabo corporis nostrum itaque aliquid. Corrupti reiciendis explicabo amet soluta doloribus. Labore, harum dicta vitae sit quae facilis quibusdam excepturi beatae ipsum at quam? Dolore sit magnam iusto, cupiditate accusantium quibusdam odio velit quos! Quibusdam, aspernatur.",
+      "author": "rashie"
+    },
+    {
+      "id": 6,
+      "title": "title 6",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere architecto doloribus officia dolor ipsum explicabo corporis nostrum itaque aliquid. Corrupti reiciendis explicabo amet soluta doloribus. Labore, harum dicta vitae sit quae facilis quibusdam excepturi beatae ipsum at quam? Dolore sit magnam iusto, cupiditate accusantium quibusdam odio velit quos! Quibusdam, aspernatur.",
+      "author": "rashie"
+    },
+    {
+      "id": 7,
+      "title": "title 7",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere architecto doloribus officia dolor ipsum explicabo corporis nostrum itaque aliquid. Corrupti reiciendis explicabo amet soluta doloribus. Labore, harum dicta vitae sit quae facilis quibusdam excepturi beatae ipsum at quam? Dolore sit magnam iusto, cupiditate accusantium quibusdam odio velit quos! Quibusdam, aspernatur.",
+      "author": "rashie"
+    },
+    {
+      "id": 8,
+      "title": "title 8",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere architecto doloribus officia dolor ipsum explicabo corporis nostrum itaque aliquid. Corrupti reiciendis explicabo amet soluta doloribus. Labore, harum dicta vitae sit quae facilis quibusdam excepturi beatae ipsum at quam? Dolore sit magnam iusto, cupiditate accusantium quibusdam odio velit quos! Quibusdam, aspernatur.",
+      "author": "rashie"
+    },
+    {
+      "id": 9,
+      "title": "title 9",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere architecto doloribus officia dolor ipsum explicabo corporis nostrum itaque aliquid. Corrupti reiciendis explicabo amet soluta doloribus. Labore, harum dicta vitae sit quae facilis quibusdam excepturi beatae ipsum at quam? Dolore sit magnam iusto, cupiditate accusantium quibusdam odio velit quos! Quibusdam, aspernatur.",
+      "author": "rashi"
+    },
+    {
+      "id": 10,
+      "title": "title 10",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere architecto doloribus officia dolor ipsum explicabo corporis nostrum itaque aliquid. Corrupti reiciendis explicabo amet soluta doloribus. Labore, harum dicta vitae sit quae facilis quibusdam excepturi beatae ipsum at quam? Dolore sit magnam iusto, cupiditate accusantium quibusdam odio velit quos! Quibusdam, aspernatur.",
+      "author": "rashi"
+    }
+  ],
+  "comments": [
+    {
+      "id": 4,
+      "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos laudantium, excepturi necessitatibus ratione cumque iure officia cum eaque reiciendis animi deleniti id eveniet pariatur numquam!",
+      "postId": "2"
+    },
+    {
+      "id": 2,
+      "postId": "3",
+      "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos laudantium, excepturi necessitatibus ratione cumque iure officia cum eaque reiciendis animi deleniti id eveniet pariatur numquam!"
+    },
+    {
+      "id": 9,
+      "postId": "1",
+      "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos laudantium, excepturi necessitatibus ratione cumque iure officia cum eaque reiciendis animi deleniti id eveniet pariatur numquam!"
+    },
+    {
+      "id": 8,
+      "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos laudantium, excepturi necessitatibus ratione cumque iure officia cum eaque reiciendis animi deleniti id eveniet pariatur numquam!",
+      "postId": "5"
+    }
+  ],
+  "profile": {
+    "id": 4,
+    "name": "rashi",
+    "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos laudantium, excepturi necessitatibus ratione cumque iure officia cum eaque reiciendis animi deleniti id eveniet pariatur numquam!"
+  }
+}
